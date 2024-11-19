@@ -23,8 +23,12 @@ Welcome to my data portfolio! I am an aspiring Data Analyst with a strong founda
    - [View Presentation (PDF)](https://github.com/SBKumar55/SBKumar55.github.io/blob/main/3-Neural-Network-Customer-Churn/Customer_Churn_Prediction_Presentation.pdf)
 
 
-4. [**Data Insights into Credit Card Service Retention: Thera Bank’s Proactive Model**](./4-Credit-Card-Service-Retention/README.md)  
-   *Analyzing credit card usage data to predict customer churn and identify key factors influencing customer retention, allowing Thera Bank to improve its service offerings.*
+4. [**Data Insights into Credit Card Service Retention: Thera Bank’s Proactive Model**](https://SBKumar55.github.io/4-Credit-Card-Service-Retention/Credit_Card_Churn_Prediction.html)  
+   *This project focuses on predicting credit card user churn and provides actionable recommendations to improve customer retention, leveraging advanced machine learning models.*
+
+   - [View Full Project Report (HTML)](https://SBKumar55.github.io/4-Credit-Card-Service-Retention/Credit_Card_Churn_Prediction.html)
+   - [View Presentation (PDF)](https://github.com/SBKumar55/SBKumar55.github.io/blob/main/4-Credit-Card-Service-Retention/Credit_Card_Churn_Prediction_Presentation.pdf)
+
 
 5. [**Smart Lending: Using Analytics to Transform Customer Engagement and Drive Loan Growth**](./5-Smart-Lending-Analytics/README.md)  
    *Developing a predictive model to identify liability customers likely to convert to personal loan customers, supporting targeted marketing for AllLife Bank’s lending services.*
