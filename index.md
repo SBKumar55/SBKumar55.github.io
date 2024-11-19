@@ -4,8 +4,9 @@ Welcome to my data portfolio! I am an aspiring Data Analyst with a strong founda
 
 ## Featured Projects
 
-1. [**Support Ticket Categorization**](https://SBKumar55.github.io/1-Support-Ticket-Categorization/Shruthi_Kumar_AIML_Project_6_NLP_Support_Ticket_Categorization.html)  
+1. [**Support Ticket Categorization**](https://SBKumar55.github.io/1-Support-Ticket-Categorization%20directory/Support_Ticket_Categorization.html)  
    *Using Generative AI to revolutionize customer support by automating the categorization and prioritization of support tickets. This project demonstrates advanced NLP and AI techniques to streamline customer service response times.*
+
 
 
 2. [**Revolutionizing Agriculture: A CNN Approach to Seedling Classification**](./2-CNN-Seedling-Classification/README.md)  
