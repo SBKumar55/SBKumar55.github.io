@@ -30,8 +30,12 @@ Welcome to my data portfolio! I am an aspiring Data Analyst with a strong founda
    - [View Presentation (PDF)](https://github.com/SBKumar55/SBKumar55.github.io/blob/main/4-Credit-Card-Service-Retention/Credit_Card_Churn_Prediction_Presentation.pdf)
 
 
-5. [**Smart Lending: Using Analytics to Transform Customer Engagement and Drive Loan Growth**](./5-Smart-Lending-Analytics/README.md)  
-   *Developing a predictive model to identify liability customers likely to convert to personal loan customers, supporting targeted marketing for AllLife Bank’s lending services.*
+5. [**Smart Lending: Using Analytics to Transform Customer Engagement and Drive Loan Growth**](https://SBKumar55.github.io/5-Smart-Lending-Analytics/Personal_Loan_Campaign.html)  
+   *This project uses advanced analytics to predict loan campaign success, targeting high-liability customers with a higher probability of opting for personal loans, driving growth and customer engagement.*
+
+   - [View Full Project Report (HTML)](https://SBKumar55.github.io/5-Smart-Lending-Analytics/Personal_Loan_Campaign.html)
+   - [View Presentation (PDF)](https://github.com/SBKumar55/SBKumar55.github.io/blob/main/5-Smart-Lending-Analytics/Personal_Loan_Campaign_Presentation.pdf)
+
 
 6. [**Cuisine, Customers, and Data: A Recipe for Enhancing Customer Experience at FoodHub**](./6-FoodHub-Customer-Experience/README.md)  
    *Exploring food delivery data to analyze customer preferences and restaurant demand, helping FoodHub enhance its service and customer satisfaction.*
