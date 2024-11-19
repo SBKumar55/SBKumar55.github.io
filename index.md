@@ -1,6 +1,6 @@
 # Data Portfolio of Shruthi Kumar
 
-Welcome to my data portfolio! I am an aspiring Data Analyst with a strong foundation in Artificial Intelligence, Machine Learning, and Data Visualization. I have created this portfolio to showcase my data analysis skills and project experience as I pursue an entry-level opportunity in the field. Each project highlights my ability to apply analytical techniques, solve real-world problems, and draw actionable insights from data.
+Welcome to my data portfolio! I am an aspiring Data Analyst with a strong foundation in Artificial Intelligence, Machine Learning, and Data Visualization. I have created this portfolio to showcase my data analysis skills and project experience as I pursue an opportunity in the field. Each project highlights my ability to apply analytical techniques, solve real-world problems, and draw actionable insights from data.
 
 ## Featured Projects
 
