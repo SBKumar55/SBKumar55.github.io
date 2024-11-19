@@ -16,8 +16,12 @@ Welcome to my data portfolio! I am an aspiring Data Analyst with a strong founda
    - [View Presentation (PDF)](https://github.com/SBKumar55/SBKumar55.github.io/blob/main/2-CNN-Seedling-Classification/Plant_Seedling_Classification_Presentation.pdf)
 
 
-3. [**Churn Prediction with Neural Networks: A Data-Driven Strategy for Customer Retention**](./3-Neural-Network-Customer-Churn/README.md)  
-   *Building a neural network model to predict customer churn in banking, enabling targeted retention strategies and enhanced customer loyalty.*
+3. [**Churn Prediction with Neural Networks: A Data-Driven Strategy for Customer Retention**](https://SBKumar55.github.io/3-Neural-Network-Customer-Churn/Customer_Churn_Prediction.html)  
+   *This project employs neural networks to predict customer churn, offering actionable insights to enhance retention strategies and improve business outcomes.*
+
+   - [View Full Project Report (HTML)](https://SBKumar55.github.io/3-Neural-Network-Customer-Churn/Customer_Churn_Prediction.html)
+   - [View Presentation (PDF)](https://github.com/SBKumar55/SBKumar55.github.io/blob/main/3-Neural-Network-Customer-Churn/Customer_Churn_Prediction_Presentation.pdf)
+
 
 4. [**Data Insights into Credit Card Service Retention: Thera Bank’s Proactive Model**](./4-Credit-Card-Service-Retention/README.md)  
    *Analyzing credit card usage data to predict customer churn and identify key factors influencing customer retention, allowing Thera Bank to improve its service offerings.*
