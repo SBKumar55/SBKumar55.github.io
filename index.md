@@ -9,8 +9,12 @@ Welcome to my data portfolio! I am an aspiring Data Analyst with a strong founda
 
 
 
-2. [**Revolutionizing Agriculture: A CNN Approach to Seedling Classification**](./2-CNN-Seedling-Classification/README.md)  
-   *Leveraging Convolutional Neural Networks (CNNs) to classify plant seedlings into 12 categories, supporting the agriculture industry by reducing manual labor and improving efficiency.*
+2. [**Revolutionizing Agriculture: A CNN Approach to Seedling Classification**](https://SBKumar55.github.io/2-CNN-Seedling-Classification/Plant_Seedling_Classification.html)  
+   *Leveraging the power of Convolutional Neural Networks (CNNs), this project classifies plant seedlings into distinct categories, demonstrating advanced deep learning techniques in the agricultural domain.*
+
+   - [View Full Project Report (HTML)](https://SBKumar55.github.io/2-CNN-Seedling-Classification/Plant_Seedling_Classification.html)
+   - [View Presentation (PDF)](https://github.com/SBKumar55/SBKumar55.github.io/blob/main/2-CNN-Seedling-Classification/Plant_Seedling_Classification_Presentation.pdf)
+
 
 3. [**Churn Prediction with Neural Networks: A Data-Driven Strategy for Customer Retention**](./3-Neural-Network-Customer-Churn/README.md)  
    *Building a neural network model to predict customer churn in banking, enabling targeted retention strategies and enhanced customer loyalty.*
