@@ -37,8 +37,12 @@ Welcome to my data portfolio! I am an aspiring Data Analyst with a strong founda
    - [View Presentation (PDF)](https://github.com/SBKumar55/SBKumar55.github.io/blob/main/5-Smart-Lending-Analytics/Personal_Loan_Campaign_Presentation.pdf)
 
 
-6. [**Cuisine, Customers, and Data: A Recipe for Enhancing Customer Experience at FoodHub**](./6-FoodHub-Customer-Experience/README.md)  
-   *Exploring food delivery data to analyze customer preferences and restaurant demand, helping FoodHub enhance its service and customer satisfaction.*
+6. [**Cuisine, Customers, and Data: A Recipe for Enhancing Customer Experience at FoodHub**](https://SBKumar55.github.io/6-FoodHub-Customer-Experience/FoodHub_Customer_Experience.html)  
+   *This project analyzes customer order data to enhance user experience, optimize restaurant partnerships, and boost operational efficiency through data-driven insights.*
+
+   - [View Full Project Report (HTML)](https://SBKumar55.github.io/6-FoodHub-Customer-Experience/FoodHub_Customer_Experience.html)
+   - [View Presentation (PDF)](https://github.com/SBKumar55/SBKumar55.github.io/blob/main/6-FoodHub-Customer-Experience/FoodHub_Customer_Experience_Presentation.pdf)
+
 
 ---
 
